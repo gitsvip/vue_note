@@ -1,1 +1,6 @@
-# vue_note
+# vue
+
+node.js install 
+
+npm install
+
