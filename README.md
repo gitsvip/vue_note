@@ -30,5 +30,35 @@ v-if //移除
 v-show //隐藏
 v-for //循环 item of list , :key="id"
 
-
+子组件
 components 局部组件声明
+
+props 接收外部传递的属性
+
+子组件,父组件通信
+$emit 子组件发布事件
+
+
+style scoped  //局部主题
+
+
+ kill -9 1046 //结束
+ lsof -i:9527 //查看端口
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
